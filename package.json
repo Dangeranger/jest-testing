@@ -1,0 +1,9 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "A simple project to try out using Jest as a test runner and mock system for input and output tests.",
+  "main": "index.js",
+  "author": "Joshua Burke",
+  "license": "MIT",
+  "private": true
+}
