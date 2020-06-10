@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Joshua Burke",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
