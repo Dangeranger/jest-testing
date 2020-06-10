@@ -6,6 +6,9 @@
   "author": "Joshua Burke",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^26.0.1"
   }
